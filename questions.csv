@@ -1,0 +1,17 @@
+
+
+題目,選項A,選項B,選項C,選項D,正確答案
+什麼是程式語言的變數?,儲存資料的容器,數學運算符號,迴圈結構,檔案名稱,A
+運算子 + 的功能是?,減法運算,乘法運算,加法運算,除法運算,C
+程式中的迴圈主要用途是?,宣告變數,重複執行程式碼,儲存資料,輸出結果,B
+布林值包含哪兩種狀態?,對與錯,高與低,是與否,真與假,D
+p5.js 的setup()函式執行幾次?,一次,無限次,由使用者決定,由瀏覽器決定,A
+p5.js 中用來畫圓形的函式是什麼?,square(),rect(),ellipse(),triangle(),C
+要讓物件在draw()中移動，通常需要改變哪個屬性?,strokeWeight,fill,position,textSize,C
+哪一個函式用來在畫布上顯示文字?,drawText(),print(),text(),display(),C
+p5.js 預設的座標原點(0,0)在哪裡?,畫布中央,左下角,左上角,右下角,C
+preload()的主要用途是什麼?,設定畫布大小,處理滑鼠點擊,載入外部資源(圖片/檔案),開始繪製循環,C
+如何使畫布上的圖案邊線消失?,noStroke(),noFill(),stroke(0),fill(255),A
+當滑鼠點擊時，p5.js 會自動呼叫哪個函式?,mouseHold(),mousePressed(),mouseClicked(),mouseAction(),B
+如果要繪製一個正方形，應該使用哪個函式?,square(),rect(),quad(),both A and B,D
+哪個指令用於設定圖形填色，使其變為綠色?,stroke(0, 255, 0),background(0, 255, 0),fill(0, 255, 0),color(0, 255, 0),C
